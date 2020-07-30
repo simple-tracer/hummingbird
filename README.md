@@ -1,6 +1,33 @@
 # hummingbird
-Powers place registration and QR code generation
+Powers place registration and QR code generation.
 
-<a href = "https://app.netlify.com/start/deploy?repository=https://github.com/simple-tracer/hummingbird/">
-  <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify">
-</a>
+## Deployment
+
+Deployment instructions found [here](https://github.com/simple-tracer/about#-stage-6-hummingbird).
+
+## Usage
+
+Usage instructions found [here](https://github.com/simple-tracer/about#hummingbird).
+
+## Technology Used
+
+This web app is written in Python 3 & Flask.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+If you find a bug please report it using GitHub Issues.
+
+To set up a local development environment please follow these instructions:
+
+* Set up a test instance of Simple Tracer, details can be found [here](https://github.com/simple-tracer/about).
+* Clone the repo by `git clone https://github.com/simple-tracer/hornbill.git`. You can also use SSH.
+* `cd` into the cloned repo.
+* Run `pip3 install -r requirements.txt`.
+* Code!
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+_This repo is maintained by Sam Poder_

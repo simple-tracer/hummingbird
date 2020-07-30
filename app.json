@@ -1,0 +1,17 @@
+{
+  "name": "Hummingbird",
+  "description": "Powers place registration and QR code generation.",
+  "repository": "https://github.com/simple-tracer/hummingbird/",
+  "logo": "https://avatars0.githubusercontent.com/u/68422085?s=200&v=4",
+  "keywords": ["flask", "simple tracer", "python"],
+  "env": {
+    "AIRTABLE_KEY": {
+            "description": "This is your Airtable API key, refer to setup docs for more info.",
+            "value": ""
+    },
+    "AIRTABLE_BASE": {
+            "description": "The Airtable Base ID for your Airtable, refer to setup docs for more info.",
+            "value": ""
+    }
+  }
+}
